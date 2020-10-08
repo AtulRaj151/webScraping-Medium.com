@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Description
 - Frontend part of webscraping of medium.com. It fetch top 10 post with the given tagname.
 
+# hosted Link : https://atulraj151.github.io/webScraping-Medium.com/
+
 
 ## Backend
    - https://github.com/AtulRaj151/WebScraping-Medium.com-Backend
