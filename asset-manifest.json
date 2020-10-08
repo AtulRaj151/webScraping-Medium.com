@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webScraping-Medium.com/static/css/main.0c80568f.chunk.css",
+    "main.js": "/webScraping-Medium.com/static/js/main.7983021a.chunk.js",
+    "main.js.map": "/webScraping-Medium.com/static/js/main.7983021a.chunk.js.map",
+    "runtime-main.js": "/webScraping-Medium.com/static/js/runtime-main.447059ac.js",
+    "runtime-main.js.map": "/webScraping-Medium.com/static/js/runtime-main.447059ac.js.map",
+    "static/js/2.700527f5.chunk.js": "/webScraping-Medium.com/static/js/2.700527f5.chunk.js",
+    "static/js/2.700527f5.chunk.js.map": "/webScraping-Medium.com/static/js/2.700527f5.chunk.js.map",
+    "index.html": "/webScraping-Medium.com/index.html",
+    "precache-manifest.db9d4f4ff3098aaed3b2d3ad3784ceea.js": "/webScraping-Medium.com/precache-manifest.db9d4f4ff3098aaed3b2d3ad3784ceea.js",
+    "service-worker.js": "/webScraping-Medium.com/service-worker.js",
+    "static/css/main.0c80568f.chunk.css.map": "/webScraping-Medium.com/static/css/main.0c80568f.chunk.css.map",
+    "static/js/2.700527f5.chunk.js.LICENSE.txt": "/webScraping-Medium.com/static/js/2.700527f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.447059ac.js",
+    "static/js/2.700527f5.chunk.js",
+    "static/css/main.0c80568f.chunk.css",
+    "static/js/main.7983021a.chunk.js"
+  ]
+}
