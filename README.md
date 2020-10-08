@@ -5,11 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Backend
-    - https://github.com/AtulRaj151/WebScraping-Medium.com-Backend
+   - https://github.com/AtulRaj151/WebScraping-Medium.com-Backend
 ## Functionality
 - Show list of blogs with creator name, title, and details
--  While data is being crawled, in the frontend display the blogs that are crawled.
-       -  <blog, title,creator, details>
-       -  <blog2, title,creator, details>
-       -  <blog3, title,creator, details>
+* While data is being crawled, in the frontend display the blogs that are crawled.
+   - <blog, title,creator, details>
+   - <blog2, title,creator, details>
+   - <blog3, title,creator, details>
 
