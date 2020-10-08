@@ -12,4 +12,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    - <blog, title,creator, details>
    - <blog2, title,creator, details>
    - <blog3, title,creator, details>
+## installation
+  - clone this repo
+  - npm install
+  - npm start
 
